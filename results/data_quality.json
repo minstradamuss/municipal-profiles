@@ -1,0 +1,43 @@
+{
+  "raw_rows": 303126,
+  "raw_municipalities": 2190,
+  "municipalities": 2016,
+  "months": 24,
+  "panel_rows": 48384,
+  "excluded_municipalities": 174,
+  "missing_cells": 0,
+  "negative_residuals": 0,
+  "dictionary_multi_version": 183,
+  "salary_exact_duplicates_removed": 5,
+  "population_exact_duplicates_removed": 8,
+  "calibration_end": "2023-06",
+  "start": "2023-01",
+  "end": "2024-12",
+  "feature_center": [
+    1.5386702983283098,
+    -0.6755253945408501,
+    -0.03213866579116109,
+    -1.339335909812139,
+    -0.531486402883872,
+    1.0738695397646876,
+    8.881784197001252e-16
+  ],
+  "feature_scale": [
+    0.35966922405618384,
+    0.23452199405716967,
+    0.4786246649803433,
+    0.8717434039918478,
+    0.20728612350059528,
+    0.17775542485654383,
+    0.4177856878201318
+  ],
+  "feature_names": [
+    "clr_Продовольствие",
+    "clr_Здоровье",
+    "clr_Маркетплейсы",
+    "clr_Общественное питание",
+    "clr_Транспорт",
+    "clr_Прочие расходы",
+    "relative_log_spending"
+  ]
+}

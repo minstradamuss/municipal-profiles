@@ -1,0 +1,45 @@
+{
+  "primary_source": "СберИндекс, набор Data → Sense",
+  "primary_page": "https://sberindex.ru/ru/research/data-sense-opisanie-nabora-dannikh-khakatona-sberindeksa-po-munitsipalnim-dannim",
+  "official_archive": "https://www.sberbank.com/common/img/uploaded/files/pdf/sberindex/hackathonlicence.zip",
+  "dictionary_page": "https://sberindex.ru/ru/research/dataset-borders-and-changes-of-municipalities",
+  "retrieved_date": "2026-10-02",
+  "retrieval": "Публичная копия файлов в репозитории хакатона 2025 года. Сайт первоисточника недоступен при сборке. Совпадение с текущей версией официального архива не проверено.",
+  "files": [
+    {
+      "file": "1_market_access.parquet",
+      "url": "https://raw.githubusercontent.com/TrueSpearmint/sberindex_hackathon/2688b801792b7d43e4f460d7004bccac374960d2/data_in/sberindex/1_market_access.parquet",
+      "bytes": 25163,
+      "sha256": "434258afe322b7e6e6610b2552d129ae47094613de72dae3d13f6965a28d1dc1",
+      "git_blob": "a4713c1a0adc7bf11628db89f22afccbf0e600ee"
+    },
+    {
+      "file": "2_bdmo_population.parquet",
+      "url": "https://raw.githubusercontent.com/TrueSpearmint/sberindex_hackathon/2688b801792b7d43e4f460d7004bccac374960d2/data_in/sberindex/2_bdmo_population.parquet",
+      "bytes": 1365528,
+      "sha256": "4b69d43dd113591c12cee61df39d318200ff42b83e52a28593930e7ee0b34dbf",
+      "git_blob": "11dcde878b17660e565a15e417fd06159df2e8b4"
+    },
+    {
+      "file": "4_bdmo_salary.parquet",
+      "url": "https://raw.githubusercontent.com/TrueSpearmint/sberindex_hackathon/2688b801792b7d43e4f460d7004bccac374960d2/data_in/sberindex/4_bdmo_salary.parquet",
+      "bytes": 1972259,
+      "sha256": "f9a8956ad68c7ec81fac7b2e61ac2494b02b489887ce06204621b5dff29e62f2",
+      "git_blob": "af744456b981b7150bd563dc7ef67583675abd59"
+    },
+    {
+      "file": "t_dict_municipal_districts.xlsx",
+      "url": "https://raw.githubusercontent.com/TrueSpearmint/sberindex_hackathon/2688b801792b7d43e4f460d7004bccac374960d2/data_in/sberindex/6_t_dict_municipal/t_dict_municipal_districts.xlsx",
+      "bytes": 322024,
+      "sha256": "4150658c3298fbc87ed79838f503f3a5b9a28da33257ff803c7d9231ddb775d6",
+      "git_blob": "0f3182c52fcb6bb6877853cef84f6fcc9ac27b16"
+    },
+    {
+      "file": "8_consumption.parquet",
+      "url": "https://raw.githubusercontent.com/TrueSpearmint/sberindex_hackathon/2688b801792b7d43e4f460d7004bccac374960d2/data_in/sberindex/8_consumption.parquet",
+      "bytes": 2373939,
+      "sha256": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+      "git_blob": "90faccdefc46f6a29e93578eb4cc70d63c1be1f8"
+    }
+  ]
+}
